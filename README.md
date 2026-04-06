@@ -24,6 +24,32 @@ Python • PyTorch • OpenCV • Scikit-learn • NumPy • Matplotlib • Ultr
 ## Dataset preview
 
 
+### Figure 1. Sample flood and non-flood images.
+<p align="center">
+  <img src="images/figure-1-sample-flood-nonflood.png" width="400"/>
+</p>
+
+### Figure 2. Flood vs no-flood class distribution.
+<p align="center">
+  <img src="images/figure-3-class-distribution.png" width="400"/>
+</p>
+
+### Figure 3. Train, validation, and test distribution.
+<p align="center">
+  <img src="images/figure-6-train-valid-test-distribution.png" width="400"/>
+</p>
+
+### Figure 4. Flood image with segmentation mask.
+<p align="center">
+  <img src="images/figure-8-segmentation-mask.png" width="400"/>
+</p>
+
+### Figure 5. Water levels class distribution.
+<p align="center">
+  <img src="images/figure-15-water-levels-distribution.png" width="400"/>
+</p>
+
+
 ## Results
 
 ### Table 1. Classical classification results.
